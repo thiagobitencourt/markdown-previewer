@@ -1,5 +1,5 @@
-const initialMarkdown = `
-# Head 1
+const initialMarkdown = 
+`# Head 1
 ## Head 2
 
 **Bold text**
